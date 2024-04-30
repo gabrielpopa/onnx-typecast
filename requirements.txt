@@ -1,4 +1,4 @@
 colorlog==4.7.2
-onnx==1.8.1
-numpy==1.18.5
+onnx==1.16.0
+numpy==1.26.4
 typer==0.3.2
